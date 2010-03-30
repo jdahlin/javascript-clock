@@ -1,0 +1,8 @@
+A simple javascript example displaying an clock in a
+web browser environment and on the desktop.
+
+Requires gjs and patches from the following bugs applied:
+https://bugzilla.gnome.org/show_bug.cgi?id=612228
+https://bugzilla.gnome.org/show_bug.cgi?id=614413
+
+Johan Dahlin, 2010-03-30
